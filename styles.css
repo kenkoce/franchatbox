@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+}
+
+P {
+  text-align: left;
+  padding-left: 38.5%;
+}
+
+h3 {
+  padding-right: 0%;
+}
+
+label {
+  padding-right: 19%;
+}
+
+#message_txt {
+  padding-right: 18%;
+}
+
+input {
+  height: 30px;
+  width: 290px;
+  margin-top: 12px;
+  background-color: #E8E8E8;
+  outline: none;
+
+}
+
+textarea {
+  height: 150px;
+  width: 290px;
+  margin-top: 12px;
+  background-color: #E8E8E8;
+
+}
+
+#Send {
+  color: white;
+  background-color: blue;
+  height: 30px;
+  width: 290px;
+  margin-top: 12px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
